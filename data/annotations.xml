@@ -3,34 +3,6 @@
   <version>1.1</version>
   <meta>
     <task>
-      <id>2</id>
-      <name>article-labelling</name>
-      <size>2</size>
-      <mode>annotation</mode>
-      <overlap>0</overlap>
-      <bugtracker></bugtracker>
-      <created>2022-10-29 14:45:53.093755+00:00</created>
-      <updated>2022-10-29 14:56:10.408986+00:00</updated>
-      <subset>default</subset>
-      <start_frame>0</start_frame>
-      <stop_frame>1</stop_frame>
-      <frame_filter></frame_filter>
-      <segments>
-        <segment>
-          <id>2</id>
-          <start>0</start>
-          <stop>1</stop>
-          <url>http://localhost:8080/api/jobs/2</url>
-        </segment>
-      </segments>
-      <owner>
-        <username>wingedrasengan927</username>
-        <email>ms.neerajkrishna@gmail.com</email>
-      </owner>
-      <assignee>
-        <username>wingedrasengan927</username>
-        <email>ms.neerajkrishna@gmail.com</email>
-      </assignee>
       <labels>
         <label>
           <name>camel</name>
